@@ -64,7 +64,7 @@
     "@hyperledger/cactus-core": "2.0.0-rc.1",
     "@hyperledger/cactus-core-api": "2.0.0-rc.1",
     "@hyperledger/cactus-plugin-ledger-connector-besu": "2.0.0-rc.1",
-    "axios": "1.6.0",
+    "axios": "1.7.8",
     "express": "4.19.2",
     "joi": "17.9.1",
     "openapi-types": "12.1.3",
