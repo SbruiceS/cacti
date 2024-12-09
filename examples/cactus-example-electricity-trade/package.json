@@ -16,11 +16,11 @@
   "dependencies": {
     "@hyperledger/cactus-cmd-socketio-server": "2.0.0-rc.1",
     "@hyperledger/cactus-common": "2.0.0-rc.1",
-    "@hyperledger/cactus-core": "2.0.0-rc.1",
+    "@hyperledger/cactus-core": "0.2.0",
     "@hyperledger/cactus-core-api": "2.0.0-rc.1",
     "@hyperledger/cactus-plugin-keychain-memory": "2.0.0-rc.1",
-    "@hyperledger/cactus-plugin-ledger-connector-ethereum": "2.0.0-rc.1",
-    "@hyperledger/cactus-plugin-ledger-connector-sawtooth": "2.0.0-rc.1",
+    "@hyperledger/cactus-plugin-ledger-connector-ethereum": "2.0.0",
+    "@hyperledger/cactus-plugin-ledger-connector-sawtooth": "2.0.0",
     "@types/node": "18.11.9",
     "body-parser": "1.20.2",
     "cookie-parser": "1.4.6",
@@ -28,7 +28,7 @@
     "escape-html": "1.0.3",
     "ethereumjs-common": "1.5.2",
     "ethereumjs-tx": "2.1.2",
-    "express": "4.19.2",
+    "express": "4.21.2",
     "fabric-ca-client": "2.2.20",
     "fabric-network": "2.2.20",
     "http-errors": "1.6.3",
@@ -40,7 +40,7 @@
     "socket.io": "4.5.4",
     "ts-node": "8.9.1",
     "uuid": "9.0.1",
-    "web3": "1.8.1",
+    "web3": "4.0.1",
     "xmlhttprequest": "1.8.0"
   },
   "devDependencies": {
