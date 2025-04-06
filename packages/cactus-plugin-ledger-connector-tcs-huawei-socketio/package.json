@@ -58,7 +58,7 @@
     "log4js": "6.4.1",
     "morgan": "1.10.0",
     "serve-favicon": "2.4.5",
-    "shelljs": "0.8.5",
+    "shelljs": "0.9.0",
     "socket.io": "4.5.4",
     "xmlhttprequest": "1.8.0"
   },
