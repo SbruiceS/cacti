@@ -54,12 +54,12 @@
     "@hyperledger/cactus-common": "2.0.0-rc.1",
     "@hyperledger/cactus-core": "2.0.0-rc.1",
     "@hyperledger/cactus-core-api": "2.0.0-rc.1",
-    "@hyperledger/cactus-plugin-keychain-memory": "2.0.0-rc.1",
+    "@hyperledger/cactus-plugin-keychain-memory": "0.2.0",
     "@hyperledger/cactus-plugin-ledger-connector-quorum": "2.0.0-rc.1",
-    "@hyperledger/cactus-verifier-client": "2.0.0-rc.1",
-    "web3": "1.6.1",
-    "web3-core-helpers": "1.6.1",
-    "web3-utils": "1.6.1"
+    "@hyperledger/cactus-verifier-client": "1.0.0",
+    "web3": "1.10.1",
+    "web3-core-helpers": "1.10.1",
+    "web3-utils": "1.10.1"
   },
   "devDependencies": {
     "@hyperledger/cactus-test-tooling": "2.0.0-rc.1",
