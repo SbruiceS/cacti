@@ -12,9 +12,9 @@
     "start": "docker-compose build && docker-compose up"
   },
   "dependencies": {
-    "@hyperledger/cactus-cmd-socketio-server": "2.0.0-rc.1",
+    "@hyperledger/cactus-cmd-socketio-server": "1.1.0",
     "@hyperledger/cactus-core-api": "2.0.0-rc.1",
-    "@hyperledger/cactus-verifier-client": "2.0.0-rc.1",
+    "@hyperledger/cactus-verifier-client": "1.0.0",
     "@types/node": "18.11.9",
     "@types/uuid": "9.0.8",
     "body-parser": "1.20.2",
@@ -35,7 +35,7 @@
     "socket.io": "4.5.4",
     "ts-node": "8.9.1",
     "uuid": "9.0.1",
-    "web3": "1.7.0",
+    "web3": "1.10.1",
     "xmlhttprequest": "1.8.0"
   },
   "devDependencies": {
