@@ -42,7 +42,7 @@
     "build:dev:backend:postbuild": "cp -f ../../yarn.lock ./dist/"
   },
   "dependencies": {
-    "@hyperledger/cactus-common": "2.0.0-rc.1",
+    "@hyperledger/cactus-common": "2.0.0",
     "@hyperledger/cactus-core-api": "2.0.0-rc.1",
     "@types/node": "18.11.9",
     "body-parser": "1.20.2",
