@@ -57,10 +57,10 @@
     "webpack:prod:web": "webpack --env=prod --target=web --config ../../webpack.config.js"
   },
   "dependencies": {
-    "@hyperledger/cactus-common": "2.0.0-rc.1",
+    "@hyperledger/cactus-common": "2.0.0",
     "@hyperledger/cactus-core": "0.2.0",
     "@hyperledger/cactus-core-api": "2.0.0-rc.1",
-    "@hyperledger/cactus-plugin-htlc-eth-besu": "2.0.0-rc.1",
+    "@hyperledger/cactus-plugin-htlc-eth-besu": "2.0.0",
     "@hyperledger/cactus-plugin-htlc-eth-besu-erc20": "0.6.0",
     "@hyperledger/cactus-plugin-ledger-connector-besu": "0.2.0",
     "@hyperledger/cactus-test-plugin-htlc-eth-besu-erc20": "0.6.0",
