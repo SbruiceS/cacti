@@ -63,7 +63,7 @@
     "@aries-framework/node": "0.5.0-alpha.71",
     "@hyperledger/anoncreds-nodejs": "0.2.0",
     "@hyperledger/aries-askar-nodejs": "0.2.0",
-    "@hyperledger/cactus-common": "2.0.0-rc.1",
+    "@hyperledger/cactus-common": "2.0.0",
     "@hyperledger/cactus-core": "0.2.0",
     "@hyperledger/cactus-core-api": "2.0.0-rc.1",
     "@hyperledger/indy-vdr-nodejs": "0.2.0",
