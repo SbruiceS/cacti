@@ -12,7 +12,7 @@
     "start": "docker-compose build && docker-compose up"
   },
   "dependencies": {
-    "@hyperledger/cactus-cmd-socketio-server": "2.0.0-rc.1",
+    "@hyperledger/cactus-cmd-socketio-server": "1.1.0",
     "@hyperledger/cactus-core-api": "2.0.0-rc.1",
     "@hyperledger/cactus-verifier-client": "2.0.0-rc.1",
     "@types/node": "18.11.9",
