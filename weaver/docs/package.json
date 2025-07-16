@@ -23,7 +23,7 @@
     "immer": "9.0.21",
     "is-svg": "4.4.0",
     "react": "16.14.0",
-    "react-dev-utils": "11.0.4",
+    "react-dev-utils": "12.0.0",
     "react-dom": "16.14.0"
   },
   "browserslist": {
