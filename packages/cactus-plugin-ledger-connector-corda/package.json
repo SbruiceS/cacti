@@ -56,11 +56,11 @@
     "webpack:dev:web": "webpack --env=dev --target=web --config ../../webpack.config.js"
   },
   "dependencies": {
-    "@hyperledger/cactus-common": "2.0.0-rc.1",
-    "@hyperledger/cactus-core": "2.0.0-rc.1",
+    "@hyperledger/cactus-common": "2.0.0",
+    "@hyperledger/cactus-core": "2.0.0",
     "@hyperledger/cactus-core-api": "2.0.0-rc.1",
     "axios": "1.6.0",
-    "express-openapi-validator": "5.0.4",
+    "express-openapi-validator": "5.5.3",
     "internal-ip": "6.2.0",
     "joi": "17.9.1",
     "node-ssh": "13.1.0",
