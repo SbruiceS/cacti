@@ -60,11 +60,11 @@
     "webpack:dev:web": "webpack --env=dev --target=web --config ../../webpack.config.js"
   },
   "dependencies": {
-    "@hyperledger/cactus-common": "2.0.0-rc.1",
-    "@hyperledger/cactus-core": "2.0.0-rc.1",
+    "@hyperledger/cactus-common": "2.0.0",
+    "@hyperledger/cactus-core": "2.0.0",
     "@hyperledger/cactus-core-api": "2.0.0-rc.1",
     "@hyperledger/cactus-plugin-ledger-connector-besu": "0.2.0",
-    "axios": "1.6.0",
+    "axios": "1.12.0",
     "express": "4.19.2",
     "joi": "17.9.1",
     "openapi-types": "12.1.3",
