@@ -45,7 +45,7 @@
     "start": "cd ./dist && node common/core/bin/www.js"
   },
   "dependencies": {
-    "@hyperledger/cactus-cmd-socketio-server": "2.0.0-rc.1",
+    "@hyperledger/cactus-cmd-socketio-server": "1.1.0",
     "@hyperledger/cactus-common": "2.0.0-rc.1",
     "@types/node": "18.11.9",
     "body-parser": "1.20.2",
@@ -54,7 +54,7 @@
     "debug": "3.1.0",
     "express": "4.19.2",
     "http-errors": "1.6.3",
-    "js-yaml": "3.14.1",
+    "js-yaml": "4.1.1",
     "jsonwebtoken": "9.0.0",
     "log4js": "6.4.1",
     "morgan": "1.10.0",
