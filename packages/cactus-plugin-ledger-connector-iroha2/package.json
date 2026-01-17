@@ -46,8 +46,8 @@
     "generate-sdk:typescript-axios": "openapi-generator-cli generate -i ./src/main/json/openapi.json -g typescript-axios -o ./src/main/typescript/generated/openapi/typescript-axios/ --reserved-words-mappings protected=protected --ignore-file-override ../../openapi-generator-ignore"
   },
   "dependencies": {
-    "@hyperledger/cactus-common": "2.0.0-rc.1",
-    "@hyperledger/cactus-core": "2.0.0-rc.1",
+    "@hyperledger/cactus-common": "2.0.0",
+    "@hyperledger/cactus-core": "2.0.0",
     "@hyperledger/cactus-core-api": "2.0.0-rc.1",
     "@iroha2/client": "4.0.0",
     "@iroha2/crypto-core": "0.1.1",
