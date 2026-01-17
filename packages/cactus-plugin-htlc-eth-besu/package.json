@@ -66,11 +66,11 @@
     "webpack:dev:web": "webpack --env=dev --target=web --config ../../webpack.config.js"
   },
   "dependencies": {
-    "@hyperledger/cactus-common": "2.0.0-rc.1",
+    "@hyperledger/cactus-common": "2.0.0",
     "@hyperledger/cactus-core": "2.0.0-rc.1",
     "@hyperledger/cactus-core-api": "2.0.0-rc.1",
     "@hyperledger/cactus-plugin-keychain-memory": "2.0.0-rc.1",
-    "@hyperledger/cactus-plugin-ledger-connector-besu": "2.0.0-rc.1",
+    "@hyperledger/cactus-plugin-ledger-connector-besu": "2.0.0",
     "@hyperledger/cactus-test-tooling": "2.0.0-rc.1",
     "axios": "1.6.0",
     "bn.js": "5.2.1",
