@@ -51,11 +51,11 @@
   },
   "dependencies": {
     "@hyperledger/cactus-common": "2.0.0-rc.1",
-    "@hyperledger/cactus-core-api": "2.0.0-rc.1",
+    "@hyperledger/cactus-core-api": "0.2.0",
     "body-parser": "1.20.2",
     "express": "4.19.2",
     "express-jwt-authz": "2.4.1",
-    "express-openapi-validator": "5.0.4",
+    "express-openapi-validator": "5.5.6",
     "http-errors": "2.0.0",
     "http-errors-enhanced-cjs": "2.0.1",
     "run-time-error-cjs": "1.4.0",
