@@ -56,7 +56,7 @@
     "@hyperledger/cactus-cmd-api-server": "0.2.0",
     "@hyperledger/cactus-common": "2.0.0-rc.1",
     "@hyperledger/cactus-core": "0.2.0",
-    "@hyperledger/cactus-core-api": "2.0.0-rc.1",
+    "@hyperledger/cactus-core-api": "0.2.0",
     "@hyperledger/cactus-test-tooling": "0.2.0",
     "kubo-rpc-client": "4.0.0",
     "typescript-optional": "2.0.1",
