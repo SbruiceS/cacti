@@ -60,7 +60,7 @@
   "dependencies": {
     "@grpc/grpc-js": "1.10.3",
     "@hyperledger/cactus-common": "2.0.0-rc.1",
-    "@hyperledger/cactus-core": "2.0.0-rc.1",
+    "@hyperledger/cactus-core": "0.2.0",
     "@hyperledger/cactus-core-api": "2.0.0-rc.1",
     "axios": "1.6.0",
     "express": "4.19.2",
@@ -74,11 +74,11 @@
     "rxjs": "7.8.1",
     "socket.io-client-fixed-types": "4.5.4",
     "typescript-optional": "2.0.1",
-    "web3": "1.6.1",
-    "web3-core": "1.6.1",
-    "web3-eth": "1.6.1",
-    "web3-eth-contract": "1.6.1",
-    "web3-utils": "1.6.1",
+    "web3": "4.0.1",
+    "web3-core": "4.0.1",
+    "web3-eth": "4.0.1",
+    "web3-eth-contract": "4.0.1",
+    "web3-utils": "1.10.1",
     "web3js-quorum": "22.4.0"
   },
   "devDependencies": {
@@ -103,8 +103,8 @@
     "socket.io": "4.5.4",
     "tsx": "4.7.0",
     "uuid": "9.0.1",
-    "web3-core": "1.6.1",
-    "web3-eth": "1.6.1"
+    "web3-core": "4.0.1",
+    "web3-eth": "4.0.1"
   },
   "engines": {
     "node": ">=18",
